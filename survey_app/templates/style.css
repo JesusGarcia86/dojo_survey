@@ -1,0 +1,18 @@
+.container {
+    margin: 0px auto;
+    border: 5px solid black;
+    width: 600px;
+    padding: 20px;
+}
+.location {
+    margin-top: 20px;
+}
+.lang {
+    margin-top: 20px;
+}
+button {
+    background-color: green;
+    color:white;
+    margin-top: 20px;
+    box-shadow: 5px solid black;
+}

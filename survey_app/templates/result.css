@@ -1,0 +1,31 @@
+.container {
+    margin: 0px auto;
+    border: 5px solid black;
+    width: 600px;
+    padding: 20px;
+}
+h2 {
+    text-decoration: underline;
+}
+p {
+    margin-right: 20px;
+    display: inline-block;
+}
+p:nth-child(2) {
+    margin-left: 105px;
+}
+p:nth-child(5) {
+    margin-left: 50px;
+}
+p:nth-child(8) {
+    margin-left: 22px;
+}
+p:nth-child(11) {
+    margin-left: 73px;
+}
+button {
+    background-color: green;
+    color:white;
+    margin-top: 20px;
+    box-shadow: 10px solid black;
+}
